@@ -32,3 +32,10 @@ This project creates a machine learning model that is fine-tuned by evaluating F
 <h2>Sample Graph</h2>
 
 ![beta_bank_sample](https://github.com/LDeYoung17/beta-bank-practicum/assets/70500225/cf0bbec6-8978-45e5-ba20-6a530ae84230)
+
+
+<h2>Portfolio Link</h2>
+
+https://ldeyoung17.github.io/
+
+This is my portfolio where all my projects, including this one, can be found, as well as more information about my experience as a Data Scientist and Software Engineer.
