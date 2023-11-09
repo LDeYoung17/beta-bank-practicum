@@ -29,6 +29,10 @@ This project creates a machine learning model that is fine-tuned by evaluating F
 5. Set up a Jupyter kernel to use Python 3.9.13
 6. Select "Run All"
 
+<h2>Plans for Updates</h2>
+
+There are no plans for updates at this time.
+
 <h2>Sample Graph</h2>
 
 ![beta_bank_sample](https://github.com/LDeYoung17/beta-bank-practicum/assets/70500225/cf0bbec6-8978-45e5-ba20-6a530ae84230)
