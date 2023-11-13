@@ -37,6 +37,9 @@ There are no plans for updates at this time.
 
 ![beta_bank_sample](https://github.com/LDeYoung17/beta-bank-practicum/assets/70500225/cf0bbec6-8978-45e5-ba20-6a530ae84230)
 
+<h2>Demonstration Video</h2>
+
+https://drive.google.com/file/d/1lxBpVdtMOQOn_Yt_xprFHemAokAMH0FC/view?usp=drive_link
 
 <h2>Portfolio Link</h2>
 
